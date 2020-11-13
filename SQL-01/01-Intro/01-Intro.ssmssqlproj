@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="HR">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="01-Intro">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="LAPTOP-2KO1DC3J\MSSQLSERVER2:LAPTOP-2KO1DC3J\Daniel">
-          <Created>2020-11-13T17:26:14.0602019+01:00</Created>
+          <Created>2020-11-13T18:17:10.6011032+01:00</Created>
           <Type>SQL</Type>
           <Server>LAPTOP-2KO1DC3J\MSSQLSERVER2</Server>
           <UserName />
@@ -19,11 +19,11 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
-        <FileNode Name="HRQuery1.sql">
+        <FileNode Name="Production-ScrapReason_Script1.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>HRQuery1.sql</FullPath>
+          <FullPath>Production-ScrapReason_Script1.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
