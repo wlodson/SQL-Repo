@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "HR", "HR\HR.ssmssqlproj", "{CADBB910-2465-497C-B91B-78CB0F255B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CADBB910-2465-497C-B91B-78CB0F255B7C}.Default|Default.ActiveCfg = Default
+		{9C54B6DD-DFCF-4FA0-9338-7430AB394A9D}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FBB09B-16E4-4DF7-9586-7B2D12FC0AA6}
+	EndGlobalSection
+EndGlobal
