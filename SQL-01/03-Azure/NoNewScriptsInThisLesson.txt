@@ -1,0 +1,2 @@
+Lekcja o Azure jest jedna i wymaga postawienia serwera (płatnego) na platformie Azure.
+Stąd żadnych nowych skryptów SQL w tej lekcji.
