@@ -19,6 +19,54 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Script1-SELECTQuery.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Script1-SELECTQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script2-INSERTQuery.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Script2-INSERTQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script3-UPDATEQuery.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Script3-UPDATEQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script4-DELETEQuery.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Script4-DELETEQuery.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script5-SELECTQuery-LAB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Script5-SELECTQuery-LAB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script6-INSERTQuery-LAB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Script6-INSERTQuery-LAB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script7-UPDATEQuery-LAB.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Script7-UPDATEQuery-LAB.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Script8-DELETEQuery-LAB.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Script8-DELETEQuery-LAB.sql</FullPath>
+        </FileNode>
         <FileNode Name="SelectTopNRecords-LAB.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:LAPTOP-2KO1DC3J\MSSQLSERVER2:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>LAPTOP-2KO1DC3J\MSSQLSERVER2</AssociatedConnSrvName>
